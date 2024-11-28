@@ -1,0 +1,12 @@
+Device1
+Device2
+Device3
+Device4
+Device5
+
+Device1 Device2 3.5
+Device2 Device3 5.2
+Device3 Device4 8.1
+Device4 Device5 4.3
+Device1 Device5 12.5
+Device2 Device5 7.9

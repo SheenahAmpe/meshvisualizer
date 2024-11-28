@@ -1,0 +1,2 @@
+sudo docker build -t mesh-visualizer-api:1.0 .
+sudo docker run -p 5000:5000 -v "/home/jalvin/Libraries/graph:/app/graph_files" mesh-visualizer-api:1.0
