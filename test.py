@@ -2,7 +2,7 @@ import requests
 import os
 
 # Path to the test graph data file
-graph_file_path = '/home/jalvin/Libraries/graph/graph_data.txt'  # Replace with the path to your graph data file
+graph_file_path = 'path-to/graph_data.txt'  # Replace with the path to your graph data file
 
 # Ensure the file exists
 if not os.path.exists(graph_file_path):
